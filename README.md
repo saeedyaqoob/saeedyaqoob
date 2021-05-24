@@ -9,8 +9,8 @@
 <summary><h2>What I currently do</h2></summary>
 
 - 🔭 I'm working on Python.
-- 🌱 I’m currently learning Javascript.
-- 👯 I’m looking towards becoming a full-stack developer.
+- 🌱 I’m currently learning Django.
+- 👯 My ultimate goal -> Becoming a full-stack developer.
 
 
 <summary><h2>What I know</h2></summary>
