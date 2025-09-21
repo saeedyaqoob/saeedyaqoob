@@ -3,14 +3,14 @@
 <p align="center" ><img src="https://saeedyaqoob.github.io/mysite/images/code2.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student developer.<br/></p><br/>
+<p align="center">I'm am learning about CyberSecurity.<br/></p><br/>
 
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🔭 I'm working on Python.
-- 🌱 I’m currently learning Django. - Here is the result : https://thecodeblog.herokuapp.com/
-- 👯 My ultimate goal -> Becoming a full-stack developer.
+- 🔭 I'm working as an Analyst.
+- 🌱 I’m currently learning the basics of CyberSecurity.
+- 👯 My ultimate goal -> Becoming a Security Engineer.
 
 
 <summary><h2>What I know</h2></summary>
