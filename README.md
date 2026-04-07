@@ -17,10 +17,10 @@
 <summary><h2>What I know</h2></summary>
 
 <div>
-<img style="margin: 10px" src="images/okta.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="mysite/images/SailPoint.png" alt="JavaScript" height="25" />   
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/AD.png" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="CSS3" height="25" />
+<img style="margin: 10px" src="images/okta.svg" alt="Okta" height="25" />  
+<img style="margin: 10px" src="mysite/images/SailPoint.png" alt="SailPoint" height="25" />   
+<img style="margin: 10px" src="main/mysite/images/AD.png" alt="AD" height="25" />  
+<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="Powershell" height="25" />
  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />   
