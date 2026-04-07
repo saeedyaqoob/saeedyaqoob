@@ -18,7 +18,7 @@
 
 <div>
 <img style="margin: 10px" src="images/okta.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="images/SailPoint.png" alt="JavaScript" height="25" />   
+<img style="margin: 10px" src="mysite/images/SailPoint.png" alt="JavaScript" height="25" />   
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/AD.png" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="CSS3" height="25" />
  
