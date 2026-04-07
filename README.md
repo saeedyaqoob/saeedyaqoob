@@ -10,7 +10,7 @@
 
 - 🔭 I'm working as an Security Analyst.
 - 🔭 I'm a SME specializing in IAM & Identity Security.
-- 🌱 I’m currently learning the basics of CyberSecurity.
+- 🌱 I’m currently persuing deeper knowledge about CyberSecurity.
 - 👯 My ultimate goal -> Becoming a Security Engineer.
 
 
