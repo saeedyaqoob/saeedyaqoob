@@ -18,9 +18,9 @@
 
 <div>
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="50px" width="100px" />   
-<img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="50" width="100" />      
-<img style="margin: 10px" src="https://blog.johnsonpremier.net/assets/img/posts/2023/install_active_directory_domain_services/install_ad_ds0.png" alt="AD" height="50" width="100" />   
-<img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="50" width="100" />
+<img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="50px" width="100px" />      
+<img style="margin: 10px" src="https://blog.johnsonpremier.net/assets/img/posts/2023/install_active_directory_domain_services/install_ad_ds0.png" alt="AD" height="50px" width="100px" />   
+<img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="50px" width="100px" />
 </div> 
 <br>
 <div> 
