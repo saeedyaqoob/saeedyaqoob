@@ -8,7 +8,7 @@
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🔭 I'm working as an Security Analyst.
+- 🔭 I'm currently working as an Security Analysis Analyst.
 - 🔭 I'm a SME specializing in IAM & Identity Security.
 - 🌱 I’m currently persuing deeper knowledge about CyberSecurity.
 - 👯 My ultimate goal -> Becoming a Security Engineer.
