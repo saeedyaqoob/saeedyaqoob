@@ -26,14 +26,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
 </div> 
+<br>
 <div> 
-- Identity and Access Management (IAM)
-- Okta Identity Cloud
-- Okta Classic Engine
-- Sailpoint Identity Security Cloud
-- Sailpoint Identity IQ
-- Microsoft Active Directory
-- Powershell
+- Identity and Access Management (IAM)<br>
+- Okta Identity Cloud<br>
+- Okta Classic Engine<br>
+- Sailpoint Identity Security Cloud<br>
+- Sailpoint Identity IQ<br>
+- Microsoft Active Directory<br>
+- Powershell<br>
 </div> 
 
 <summary><h2>To connect with me</h2></summary>
