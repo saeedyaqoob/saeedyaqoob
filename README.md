@@ -17,11 +17,6 @@
 <summary><h2>What I know</h2></summary>
 
 <div>
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/tree/912ed9ca91e18be5f51fdec16c4e6bc0b23e5f11/images/okta.svg" alt="Okta" height="25" />  
-<img style="margin: 10px" src="./SailPoint.png" alt="SailPoint" height="25" />   
-<img style="margin: 10px" src="main/mysite/images/AD.png" alt="AD" height="25" />  
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="Powershell" height="25" />
- 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
@@ -30,7 +25,16 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-</div>  
+</div> 
+<div> 
+- Identity and Access Management (IAM)
+- Okta Identity Cloud
+- Okta Classic Engine
+- Sailpoint Identity Security Cloud
+- Sailpoint Identity IQ
+- Microsoft Active Directory
+- Powershell
+</div> 
 
 <summary><h2>To connect with me</h2></summary>
 
