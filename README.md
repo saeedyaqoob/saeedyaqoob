@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Saeed Yaqoob! <a href="https://saeedyaqoob.github.io/mysite/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Saeed Rather! <a href="https://saeedyaqoob.github.io/mysite/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img src="https://saeedyaqoob.github.io/mysite/images/code2.gif" width="40%"/></p>
 
@@ -8,7 +8,8 @@
 
 <summary><h2>What I currently do</h2></summary>
 
-- 🔭 I'm working as an Analyst.
+- 🔭 I'm working as an Security Analyst.
+- 🔭 I'm a SME specializing in IAM & Identity Security.
 - 🌱 I’m currently learning the basics of CyberSecurity.
 - 👯 My ultimate goal -> Becoming a Security Engineer.
 
