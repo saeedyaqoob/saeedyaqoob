@@ -19,7 +19,7 @@
 <div>
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="25" />   
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="25" />      
-<img style="margin: 10px" src="https://www.citypng.com/public/uploads/preview/hd-microsoft-active-directory-windows-server-logo-png-7017516947080750l3ijbofom.png" alt="AD" height="25" />   
+<img style="margin: 10px" src="https://images.seeklogo.com/logo-png/33/1/active-directory-logo-png_seeklogo-331553.png" alt="AD" height="25" />   
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="25" />
 </div> 
 <br>
