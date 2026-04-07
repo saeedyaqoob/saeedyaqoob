@@ -17,9 +17,9 @@
 <summary><h2>What I know</h2></summary>
 
 <div>
-<img style="margin: 10px" src="https://documentation.sailpoint.com/saas/help/assets/sailpoint-logo.png" alt="SailPoint" height="25" /><br>
+<img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="25" /><br>
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="25" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://www.citypng.com/public/uploads/preview/hd-microsoft-active-directory-windows-server-logo-png-7017516947080750l3ijbofom.png" alt="AD" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />
