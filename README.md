@@ -18,7 +18,7 @@
 
 <div>
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/tree/912ed9ca91e18be5f51fdec16c4e6bc0b23e5f11/images/okta.svg" alt="Okta" height="25" />  
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/tree/912ed9ca91e18be5f51fdec16c4e6bc0b23e5f11/images/SailPoint.png" alt="SailPoint" height="25" />   
+<img style="margin: 10px" src="SailPoint.png" alt="SailPoint" height="25" />   
 <img style="margin: 10px" src="main/mysite/images/AD.png" alt="AD" height="25" />  
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="Powershell" height="25" />
  
