@@ -19,7 +19,7 @@
 <div>
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="25" />   
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="25" />      
-<img style="margin: 10px" src="https://images.seeklogo.com/logo-png/33/1/active-directory-logo-png_seeklogo-331553.png" alt="AD" height="25" />   
+<img style="margin: 10px" src="https://banner2.cleanpng.com/20180530/fxz/kisspng-active-directory-windows-server-2012-single-sign-o-group-policy-5b0f5f52a34533.4445569215277340986688.jpg" alt="AD" height="25" />   
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="25" />
 </div> 
 <br>
