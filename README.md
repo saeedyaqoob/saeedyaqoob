@@ -17,7 +17,7 @@
 <summary><h2>What I know</h2></summary>
 
 <div>
-<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/okta.svg" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/tree/912ed9ca91e18be5f51fdec16c4e6bc0b23e5f11/images/okta.svg" alt="Python" height="25" />  
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/SailPoint.png" alt="JavaScript" height="25" />   
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/AD.png" alt="HTML5" height="25" />  
 <img style="margin: 10px" src="https://github.com/saeedyaqoob/mysite/blob/main/images/Powershell.png" alt="CSS3" height="25" />
