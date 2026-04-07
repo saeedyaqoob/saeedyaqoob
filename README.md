@@ -17,10 +17,10 @@
 <summary><h2>What I know</h2></summary>
 
 <div>
-<img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="25" />   
+<img style="margin: 10px" src="https://cdn.brandfetch.io/idmTvFU2Bh/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="SailPoint" height="30" width="50" />   
 <img style="margin: 10px" src="https://cdn.brandfetch.io/idry7rM6vS/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Okta" height="30" width="50" />      
-<img style="margin: 10px" src="https://blog.johnsonpremier.net/assets/img/posts/2023/install_active_directory_domain_services/install_ad_ds0.png" alt="AD" height="25" />   
-<img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="25" />
+<img style="margin: 10px" src="https://blog.johnsonpremier.net/assets/img/posts/2023/install_active_directory_domain_services/install_ad_ds0.png" alt="AD" height="30" width="50" />   
+<img style="margin: 10px" src="https://cdn.brandfetch.io/idibz_Za3m/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Powershell" height="30" width="50" />
 </div> 
 <br>
 <div> 
